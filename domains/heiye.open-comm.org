@@ -1,0 +1,14 @@
+{
+    "description": "sctech's webapps",
+    "domain": "open-comm.org",
+    "subdomain": "heiye",
+    "owner": {
+        "email": "gamerselimiko@gmail.com"
+    },
+    "record": {
+        "A": [
+            "156.238.233.181"
+        ]
+    },
+    "proxied": false
+}
